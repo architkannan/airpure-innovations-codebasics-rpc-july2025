@@ -1,0 +1,28 @@
+Source URL - https://dataful.in/challenges/
+
+Datasets Utilized:
+------------------
+1. Day-wise, State-wise Air Quality Index (AQI) of Major Cities and Towns in India
+
+	- Organisation: Ministry of Environment, Forest and Climate Change
+	- Granularity: State, Area, Pollutant
+	- Time Period: 2022 to 2025
+
+2. State, District, and Disease-wise Cases and Deaths reported due to Outbreak of Diseases as per Weekly reports under IDSP
+
+	- Organisation: Ministry of Health and Family Welfare
+	- Granularity: State, District, Disease, Year, Week
+	- Time Period: 2022 to 2025
+
+3. State, Vehicle Class and Fuel Type-wise Total Number of Vehicles Registered in Each Month in India
+
+	- Organisation: Ministry of Road Transport and Highways
+	- Granularity: Month, State
+	- Time Period: 2022 to 2025
+
+4. Population Projection of India: State- and Gender-wise Yearly Projected Urban Population (2011-2036)
+
+	- Organisation: Ministry of Health and Family Welfare
+	- Granularity: State
+	- Time Period: 2011 to 2036
+	
